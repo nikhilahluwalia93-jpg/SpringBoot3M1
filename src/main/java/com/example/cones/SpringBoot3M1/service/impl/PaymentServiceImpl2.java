@@ -1,6 +1,6 @@
-package com.example.cones.SpringBoot3M1.service;
+package com.example.cones.SpringBoot3M1.service.impl;
 
-import org.springframework.stereotype.Service;
+import com.example.cones.SpringBoot3M1.service.PaymentService2;
 
 //@Service
 // Using @Bean annotation in a @Configuration class

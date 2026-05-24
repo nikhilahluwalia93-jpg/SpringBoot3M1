@@ -1,8 +1,8 @@
 package com.example.cones.SpringBoot3M1.config;
 
 import com.example.cones.SpringBoot3M1.service.PaymentService2;
-import com.example.cones.SpringBoot3M1.service.PaymentServiceImpl;
-import com.example.cones.SpringBoot3M1.service.PaymentServiceImpl2;
+import com.example.cones.SpringBoot3M1.service.impl.PaymentServiceImpl;
+import com.example.cones.SpringBoot3M1.service.impl.PaymentServiceImpl2;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
